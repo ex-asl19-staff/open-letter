@@ -1,37 +1,54 @@
-## Welcome to GitHub Pages
+# Open letter regarding ASL19 and hostile work environments in the Internet Freedom Community
 
-You can use the [editor on GitHub](https://github.com/ex-asl19-staff/open-letter/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+On Thursday November 23rd 2017, news broke that Ali Karimzadeh Bangi, known to our community as the Co-Director of ASL19, [had been charged with sexual assault and forcible confinement](http://www.metronews.ca/news/toronto/2017/11/23/toronto-researcher-and-internet-freedom-activist-charged-with-sexual-assault.html). The next day ASL19 released a statement [announcing that Ali had resigned](http://www.metronews.ca/news/toronto/2017/11/24/toronto-researcher-leaves-internet-freedom-organization-after-sex-assault-charge.html). ASL19 then published a followup statement on February 1st 2018 stating they had been working with an innovation firm. Both statements seemed to suggest the problem had been removed and largely resolved.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+As former ASL19 staff members, we have come together to write this letter explaining why that is not the case. Specifically, Ali's departure leaves intact a toxic atmosphere and a management team that has consistently ignored, covered up and even condoned his egregious behaviour over the years. ASL19's lack of historical accountability for this conduct provides minimal confidence that the removal of Ali will remedy the situation. Moreover, the close and enduring ties between Ali and ASL19's management and the lack of transparency under which the organization has historically operated leave open the possibility of Ali's return, further undermining the prospect of organizational change.
 
-### Markdown
+At the outset, it is important to understand the widespread nature of Ali's conduct, conduct that extended well beyond the isolated incident captured in the charges brought forth late November. During our tenures at ASL19, all of us witnessed the same pattern of abusive behaviours from Ali. The following are a few examples of conduct that contributed to ASL19 being an unsafe workplace for women and those who dared to voice dissent:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Ali shouted at, threatened and verbally abused staff during meetings
+- Ali frequently harassed and at times even physically assaulted staff
+- Ali and management engaged in gender-based discrimination
+- Management implemented ineffectual, performative HR practices, which only served to
+gaslight complainants
+- Ali and management engaged in tone-policing, manipulation, intimidation and coercive
+behaviour
+- Ali engaged in sexually harassing behaviour
 
-```markdown
-Syntax highlighted code block
+We were not alone within the organization in having witnessed the above behaviours, nor in being on the receiving end of Ali’s infamous “meltdowns”. However, we were very much alone when it came to raising concerns and suggesting improvements. The management team at ASL19 consistently covered up and even condoned Ali's abusive behaviour. Often, they too employed some of the same coercive tactics as Ali himself as a response to those of us who dared to point out the inappropriate nature of Ali's behaviour. Complainants were punished, isolated and demonized to prevent them from gaining support - and ultimately, to push them out. Time and again, we saw the necessary and common use of aliases to shield our identities in our high- risk work become a weapon for Ali and management to wield against those staff deemed to be “troublemakers”. Being discouraged from asking personal questions of colleagues ensured that targeted staff were isolated and felt unable to discuss their complaints with others, even after they had resigned. At times, management did make vague promises to address concerns, but no real follow-throughs were carried out. Ali demanded absolute loyalty and the resulting insularity and self-preservation tactics of the management team ensured that any complaints about his abuse of power were ultimately dismissed. This toxic environment frequently drove out the targeted staff, including ourselves.
 
-# Header 1
-## Header 2
-### Header 3
+The lack of transparency in ASL19's operations has also been central in allowing
+this harmful environment to take hold. ASL19 is structured as a for-profit company based in Ontario, and appears to lack a board of directors or any meaningful external oversight. As the sole historical owner of ASL19, Ali has populated management with those who would never challenge him by appointing close friends and others susceptible to coercion. This ensured Ali's abusive behaviour would never be challenged. Upon his resignation, Ali transferred ownership of ASL19 to his very close friend and co-director, Fereidoon Bashar, who will run the organization with a team that also includes Ali's ex-girlfriend. We are concerned that placing Ali's closest allies from management in charge of ASL19 leaves open the possibility of Ali's continued or future participation in ASL19. We believe ASL19's structure as a for-profit contributed to its ability to operate with little to no regard for transparency. We feel it is important to shed light on this system, which allowed the hostile and abusive work environment to continue unimpeded and remains largely intact.
 
-- Bulleted
-- List
+By bringing forward information about the behaviours we endured at ASL19, we hope to highlight the patterns which contributed to an unsafe and unequal environment for our work, our activism, and our solidarity with each other. As we all know, the work in our community is mentally draining and very lonely at times. Such toxicity and abuses of power as we have described above only serve to amplify that. We recognize that the actions we have described are not equivalent to sexual assault or forcible confinement; the charges currently faced by Ali Bangi. However, it is also important to acknowledge the larger pattern of abuse exacted upon women and gender-nonconforming folks and the role it plays in creating a culture of silence that protects abusers. Those of us who wrote this letter all love this community, and we want to see it heal and grow from the damage wreaked by Ali, Morgan Marquis-Boire, Jacob Appelbaum and others who have yet to see consequences for their harmful actions.
 
-1. Numbered
-2. List
+In order to address the patterns which created a pervasive culture of abuse and hostility at ASL19, we would also like to see the following take place:
 
-**Bold** and _Italic_ and `Code` text
+## Changes at ASL19
 
-[Link](url) and ![Image](src)
-```
+The management who remain at ASL19 should step down and publicly acknowledge and apologize for the role they have played in enabling Ali's behaviour and their own role in bullying and silencing dissent among staff. Predatory and abusive behaviour does not happen in a vacuum. It is supported by the culture of an organization and those around the predators who have groomed their networks. ASL19 should also restructure with an independent and external board of directors capable of ensuring the proper steps and evaluations occur if such activities recur in the future. The work of ASL19 is critically important, but is not sustainable or effective in the current climate.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Funders have a role to play
 
-### Jekyll Themes
+*1_* It is imperative that Funders review appropriate HR policies of organizations before awarding and issuing funds. The same thorough criteria and frameworks funders employ to evaluate grant proposals can and should be used to evaluate and understand an organization's work culture and its overall health. The same evaluations should be integrated into sustainability reviews of the project or organization, and not separate. This sends the message that communications practices and HR policies cannot be ad hoc and that having clear human resources and safety policies in fact makes the work stronger.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ex-asl19-staff/open-letter/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+*2_* Funders must ensure that investigations into complaints regarding inappropriate workplace behaviour are conducted by qualified and reputable HR professionals familiar with local legislation and HR standards. Serious investigations should be carried out by an external, objective party whose findings are made available to all staff, and who is legally accountable to the organization as a whole (i.e. through a board of directors), rather than to management. Steps must be taken to ensure that the results of such investigations are complete, unbiased, and as free from management influence as possible, by using strategies such as interviewing a mix of current and past employees, for example. Needless to say, those involved in investigations must not be handpicked by leadership's close allies and friends within the company.
 
-### Support or Contact
+*3_* Funders have a responsibility to ensure that the organizations to which they are issuing funds are reasonably compliant with local legislation and regulations, for example, by producing annual reports and financial statements, conducting regular audits, and electing a board of directors if the law requires one. To this end, funders should consider developing a specialized approach and particularly stringent accountability mechanisms for social-purpose organizations structured as for-profit corporations. Those mechanisms should be contextual and appropriate, recognizing that in some cases a for-profit structure may serve important organizational objectives (e.g. eligibility for certain kinds of government benefits) while simultaneously creating conflicting obligations for leadership and weaker accountability mechanisms when compared to a not-for-profit or cooperative structure. To this end, information such as audits and financial statements, information about ownership and control of an entity, corporate bylaws, and election procedures for the board of directors of organizations should be made available to funders, staff, and (to the extent possible) the public.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+*4_* We urge funders to put in place mechanisms to ensure appropriate and continuous efforts are expended towards increasing diversity and inclusion (such as regular reports on participation in organizational activities such as conferences), and ensuring a commitment to pay equity. However we also recognize and encourage funders to think of diversity in a contextual manner and adapt requirements accordingly.
+
+*5_* Funders should consider putting in place various mechanisms to help ensure a safe and healthy work environment in the organizations they support. These should at minimum include external audits and direct employee to funder complaint mechanisms.
+
+## Changes to the broader community
+
+The larger Internet Freedom community needs to reflect upon how we can enable people to come forward about internal harassment and abuse, while still protecting the identities of high- risk staff from external forces.
+
+To the funders and partners of ASL19: please reflect on whether the abusive and hostile workplace culture endemic to this organization reflects the kind of place you want to be financially contributing to and involved with. The bullying, the abuses of power, and the silencing of dissent will inevitably resurface in the work as we see it being impacted today. As those who have experienced and witnessed first-hand the abuse of power and toxic work culture, we are concerned that it is a blight in the human rights community.
+
+
+While the person who has recently brought charges against Ali was not involved in this letter, we would like to extend our deepest thanks and solidarity to them. Their courage has empowered us to come forward with our own experiences too. Although we have connected to write this letter, there are several others we know of who share our experience at ASL19, but for reasons of safety are unable to contribute their stories. We’d like to acknowledge these people here: we see you, we’re thinking of you and we hope you have support. Given Ali and his friends’ continued influence in the community, we ourselves are remaining anonymous because we do not believe it is safe to share our identities. We are also concerned that if our real identities are tied to our historical pseudonymous work it could put us, our families and our on-the-ground collaborators at risk. Please respect our right to anonymity by not seeking to confirm our involvement in this letter.
+
+Thank you,
+
+_— Former Employees of ASL19_
